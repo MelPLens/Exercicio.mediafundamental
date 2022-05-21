@@ -12,4 +12,5 @@ Exercicio feito com o tipo de linguagem Java para calcular a média do ensino fu
 Caso nao entre em nenhuma dessas opcoes 
 imprima Aluno reprovado
 Fim por fim
-! [Fluxograma] (![capturamel](![fluxogramaensinofundamental](https://user-images.githubusercontent.com/99374140/169629188-44b7c222-d203-4239-85d8-607392ef8c23.png)
+*********************************************
+![fluxogramaensinofundamental](https://user-images.githubusercontent.com/99374140/169629236-f00da0bd-bf0e-433e-9b53-bfb6263b620c.png)
